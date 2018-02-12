@@ -1,0 +1,123 @@
+/*
+	Theme Name: Master Study
+	Theme URI: http://stylemix.net
+	Author: Stylemix LLC
+	Author URI: http://stylemix.net
+	Description: MasterStudy is the best WordPress theme for the Education & Learning Center - for educational organizations, who sell courses and organize classes locally. Using Masterstudy you can easily setup a WordPress site for your education company.
+	Version: 1.0
+	License: GNU General Public License v2 or later
+	License URI: http://www.gnu.org/licenses/gpl-2.0.html
+	Tags: classes, courses, education, education center, learning center, tutoring, teaching, study, studying, learning, lessons, instructor, teacher, mentor
+	Text Domain: masterstudy
+*/
+
+
+
+body .gform_wrapper .top_label .gfield_label {
+font-weight: 400 !important;
+width: 500px !important;
+}
+
+.pure-img {
+   
+    width: 300px !important;
+
+}
+.wp-pagenavi {
+
+    text-align: center !important;
+}
+
+/* blog theme pattern grid view change css*/
+.blog-cols-sidebar.col-md-6:nth-child(2n+1) {
+    /*clear: inherit;*/
+}
+
+
+/*menu bar search option margin decrease*/
+.search-toggler {
+    display: block;
+    position: relative;
+    padding: 4px 8.5px;
+    margin-left: 20px !important;
+    background-color: transparent;
+    border: 3px solid #eab830;
+        border-top-color: rgb(234, 184, 48);
+        border-right-color: rgb(234, 184, 48);
+        border-bottom-color: rgb(234, 184, 48);
+        border-left-color: rgb(234, 184, 48);
+    color: #eab830;
+    overflow: hidden;
+}
+
+
+.header_main_menu_wrapper .header-menu > li {
+        padding-right: 6px !important;
+        padding-left: 6px !important;
+
+}
+
+
+
+.col-md-offset-1 {
+    margin-left: 5.333% !important;
+}
+.col-md-8 {
+    width: 68.667% !important;
+}
+
+.header_main_menu_wrapper .header-menu {
+
+    margin: 0 -22px !important;
+}
+
+
+/*label{
+max-width: 190px !important;
+}
+*/
+
+
+.page-id-1722 .wpb_wrapper ul li {
+list-style: none !important;
+}
+
+.page-id-1722 .widget_title h3{
+margin-top:0px;
+}
+.page-id-1722 .wpb_wrapper ul li a{
+font-size: 15px !important;
+}
+
+.page-id-1722 .wpb_wrapper nav ul {
+max-height:400px;
+max-width:170px;
+}
+
+.page-id-1722 .wpb_wrapper nav ul {
+overflow:hidden;
+overflow-y:scroll;
+}
+.page-id-1722 .wpb_wrapper .search_width{
+max-width:170px;
+}
+*/
+.page-id-1722 .wpb_wrapper ul li a {
+font-size: 30px !important;
+}*/
+
+
+.page-id-1935 .wonderplugin-gridgallery-list .wonderplugin-gridgallery-item a div{
+display:none !important;
+}
+
+.wp_pagination_custom a{
+border:1px solid #BFBFBF !important;
+font-weight: bold;
+font-size: 14px;
+padding:3px 5px;
+}
+.wp_pagination_custom .current{border:1px solid black !important;font-size: 14px;
+padding:3px 5px;}
+
+
